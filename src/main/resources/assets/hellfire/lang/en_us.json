@@ -1,0 +1,11 @@
+{
+  "itemGroup.hellfire": "HellFire",
+  "item.hellfire.missile_one": "Tier One Missile",
+  "item.hellfire.missile_two": "Tier Two Missile",
+  "item.hellfire.missile_three": "Tier Three Missile",
+  "block.hellfire.silo_block": "Missile Silo",
+  "block.hellfire.repulsive_bomb": "Repulsive Bomb",
+  "block.hellfire.thermobaric_bomb": "Thermobaric Bomb",
+  "block.hellfire.obsidian_tnt": "Obsidian TNT",
+  "block.hellfire.nuclear_bomb": "Nuclear Bomb"
+}
